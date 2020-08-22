@@ -1,5 +1,7 @@
 Rencanan Jaringan
 
 - Mengatur role
+  * Queqeu terbatas hanya untuk tamu dan aplikasi tertentu saja
 - Menambah b/w
+  * Mengganti Indohome ke dedicated network ISP
 - Load Balancing
